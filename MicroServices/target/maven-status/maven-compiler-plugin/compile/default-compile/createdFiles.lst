@@ -5,10 +5,12 @@ io/pivotal/microservices/accounts/HomeController.class
 io/pivotal/microservices/accounts/AccountsController.class
 io/pivotal/microservices/accounts/AccountRepository.class
 io/pivotal/microservices/services/web/WebAccountsService.class
+io/pivotal/microservices/blockchain/BlockChainController.class
 io/pivotal/microservices/services/Main.class
 io/pivotal/microservices/services/web/WebServer.class
 io/pivotal/microservices/services/web/HomeController.class
 io/pivotal/microservices/services/web/SearchCriteria.class
+io/pivotal/microservices/services/blockchain/BlockChainServer.class
 io/pivotal/microservices/services/web/Account.class
 io/pivotal/microservices/accounts/Account.class
 io/pivotal/microservices/services/registration/RegistrationServer.class
